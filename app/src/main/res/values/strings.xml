@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SDcard_Scanner</string>
+    <string name="title_activity_scan_sd">ScanSD</string>
+</resources>
